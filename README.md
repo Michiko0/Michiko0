@@ -1,6 +1,6 @@
 ### Hello there, it's me Michiko, a beginner developer who's like to create something new. And who is the fuck asked?
 ----
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=michiko0&label=Profile%20views&color=0e75b6&style=flat" alt="michiko0" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=michiko0&label=Profile%20views&color=0e75b6&style=flat" alt="michiko0" /> </p>
 
 
 <p align="center"> 
@@ -12,6 +12,7 @@
 ![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 - Discord: [Michiko#0620](https://discord.com/users/521591624644427777) 
 - Discord Server: [Community](https://discord.gg/BWtuV4yuAc), [Support](https://discord.gg/cxXU9R6GwT)
+- Join the community server!
 
 ---
 # Github thing
