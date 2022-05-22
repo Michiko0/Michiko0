@@ -1,11 +1,10 @@
-### Hello there, it's me Michiko, a beginner developer who's like to create something new. And who is the fuck asked?
+### Hello there I'm Michiko, what should I do for the first project? aaaaaaa
 ----
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=michiko0&label=Profile%20views&color=0e75b6&style=flat" alt="michiko0" /> </p>
 
 
 <p align="center"> 
-  I'm currently working on <a href="https://github.com/Michiko0/Yumiko"> Yumiko</a> an Advanced Economy Discord bot.</p>
-<p align="center"> I don't know what to fill in here but ok.
+  Self-taught. Frontend. I'm currently learning PHP... Who asked?
   </p>
   
  # Contact Me:
