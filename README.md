@@ -1,16 +1,16 @@
-### Hello there I'm Michiko, what should I do for the first project? aaaaaaa
+### Hello there I'm Michiko, I wonder how I can be in here...
 ----
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=michiko0&label=Profile%20views&color=0e75b6&style=flat" alt="michiko0" /> </p>
 
 
 <p align="center"> 
-  Self-taught. Frontend. I'm currently learning PHP... Who asked?
+  Self-taught. Frontend. I'm currently learning C#... Who asked?
   </p>
   
  # Contact Me:
 ![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 - Discord: [Michiko#0620](https://discord.com/users/521591624644427777) 
-- Discord Server: [Community](https://discord.gg/BWtuV4yuAc), [Support](https://discord.gg/cxXU9R6GwT)
+- Discord Server: [Community](https://discord.gg/BWtuV4yuAc)
 - Join the community server!
 
 ---
