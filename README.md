@@ -4,7 +4,7 @@
 
 
 <p align="center"> 
-  Self-taught. Frontend. I'm currently learning C#... Who asked?
+  Self-taught. Frontend. I'm currently learning C#... who asked?
   </p>
   
  # Contact Me:
@@ -17,4 +17,4 @@
 # Github thing
 [![Michiko](https://github-readme-stats.vercel.app/api?username=Michiko0)](https://github.com/Michiko0/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michiko0&layout=compact)](https://github.com/Michiko0/github-readme-stats)
- 
+ ## https://Michiko0.github.io
