@@ -4,7 +4,7 @@
 
 
 <p align="center"> 
-  Self-taught. Frontend. I'm currently learning C#... who asked?
+  Self-taught. Frontend... who asked?
   </p>
   
  # Contact Me:
