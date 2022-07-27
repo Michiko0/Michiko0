@@ -1,10 +1,10 @@
-### Hello there I'm Michiko, I wonder how I can be in here...
+### Hello world! I'm Michiko!
 ----
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=michiko0&label=Profile%20views&color=0e75b6&style=flat" alt="michiko0" /> </p>
 
 
 <p align="center"> 
-  Self-taught. Frontend... who asked?
+  I'm self-taught Frontend developer!..
   </p>
   
  # Contact Me:
@@ -17,4 +17,4 @@
 # Github thing
 [![Michiko](https://github-readme-stats.vercel.app/api?username=Michiko0)](https://github.com/Michiko0/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michiko0&layout=compact)](https://github.com/Michiko0/github-readme-stats)
- ## https://Michiko0.github.io
+
