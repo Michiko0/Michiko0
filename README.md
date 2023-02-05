@@ -4,7 +4,7 @@
 
 
 <p align="center"> 
-  Self-taught backend developer, 
+  Self-taught backend developer, that's everything about me in here...
   </p>
   
  # Contact Me:
